@@ -1,4 +1,8 @@
+@import url(https://db.onlinewebfonts.com/c/f1fcc5aed1e20fc0cdb9f8a7573625bd?family=Integral+CF+Regular);
+@import url(https://db.onlinewebfonts.com/c/e5cf4323214de97c3428d64ece016410?family=Integral+CF);
+
 body {
+  font-family: "Integral CF"
 }
 
 link,
@@ -8,4 +12,316 @@ a {
 
 ul {
   list-style-type: none;
+}
+
+/* \\\\\\\\\header\\\\\\\\\\\\\ */
+
+.main-header {
+}
+.header-text {
+  font-family: "Satoshi", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  color: #fff;
+}
+.header-clowse {
+}
+.header-button-image {
+}
+.logo {
+  font-weight: 700;
+  font-size: 32px;
+  color: #000;
+}
+.header-link {
+}
+.header-list {
+}
+.header-list-item {
+}
+.header-list-link {
+  font-family: "Satoshi", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  color: #000;
+}
+.header-list-icon {
+}
+.header-list-icon-item {
+}
+.header-link-icon {
+}
+
+/* \\\\\\\\\\\\main-section\\\\\\\\\\\\\\\\ */
+
+.section-site {
+}
+
+.main-section {
+}
+
+.main-title {
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 100%;
+  color: #000;
+}
+
+.main-text {
+  font-family: "Satoshi", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 138%;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.main-button {
+  font-family: "Satoshi", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  color: #fff;
+}
+.main-list {
+}
+
+.main-list-item {
+}
+
+.main-list-title {
+  font-weight: 700;
+  font-size: 40px;
+  color: #000;
+}
+
+.main-list-text {
+  font-family: "Satoshi", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 138%;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+/* \\\\\\\\\\\\\\\companies\\\\\\\\\\\\\ */
+
+.companies {
+}
+
+.companies-list {
+}
+
+.companies-list-item {
+}
+
+.companies-list-image {
+}
+
+/* \\\\\\\\\\\\\\\arrivals\\\\\\\\\\\\\\\\\\\ */
+
+.arrivals {
+}
+
+.arrivals-title {
+  font-weight: 700;
+  font-size: 48px;
+  text-align: center;
+  color: #000;
+}
+
+.arrivals-list {
+}
+
+.arrivals-list-item {
+}
+
+.arrivals-list-img {
+}
+
+.arrivals-list-title {
+  font-family: "Satoshi", sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+  color: #000;
+}
+
+.arrivals-list-price {
+  font-family: "Satoshi", sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+  color: #000;
+}
+
+.arrivals-button {
+  font-family: "Satoshi", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  color: #000;
+}
+
+/* \\\\\\\\\\\\\\\\\selling\\\\\\\\\\\\\\\\\\\\\ */
+
+.selling {
+}
+
+.selling-title {
+  font-weight: 700;
+  font-size: 48px;
+  text-align: center;
+  color: #000;
+}
+
+.selling-list {
+}
+
+.selling-list-item {
+}
+
+.selling-list-img {
+}
+
+.selling-list-title {
+  font-family: "Satoshi", sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+  color: #000;
+}
+
+.selling-list-price {
+  font-family: "Satoshi", sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+  text-decoration: line-through;
+  color: rgba(0, 0, 0, 0.4);
+}
+
+.selling-button {
+  font-family: "Satoshi", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  color: #000;
+}
+
+/* \\\\\\\\\\\\\\\\\\\\\style\\\\\\\\\\\\\\\\\\\\\\\ */
+
+.style {
+}
+.style-element {
+}
+.style-title {
+  font-weight: 700;
+  font-size: 48px;
+  text-align: center;
+  color: #000;
+}
+.style-list {
+}
+.style-list-item {
+}
+.style-list-block {
+}
+.style-list-img {
+}
+.style-list-title {
+  font-family: "Satoshi", sans-serif;
+  font-weight: 700;
+  font-size: 36px;
+  color: #000;
+}
+
+/* \\\\\\\\\\\\\\\\\\\\\customers\\\\\\\\\\\\\\\\\\\\\\\ */
+
+.customers {
+}
+
+.customers-title {
+  font-weight: 700;
+  font-size: 48px;
+  color: #000;
+}
+
+.customers-block {
+}
+
+.customers-block-title {
+  font-family: "Satoshi", sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 110%;
+  color: #000;
+}
+
+.customers-block-text {
+  font-family: "Satoshi", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 138%;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+/* \\\\\\\\\\\\\\\\\subscribe\\\\\\\\\\\\\\\\\\\\\\ */
+
+.subscribe {
+}
+.subscribe-title {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 113%;
+  color: #fff;
+}
+.subscribe-button {
+  font-family: "Satoshi", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  color: #000;
+}
+
+/* \\\\\\\\\\\\\\\\\\footer\\\\\\\\\\\\\\\\\\\\\\\\ */
+
+
+.footer {
+}
+.footer-block {
+}
+.footer-logo {
+}
+.footer-text {
+  font-family: "Satoshi", sans-serif;
+font-weight: 400;
+font-size: 14px;
+line-height: 157%;
+color: rgba(0, 0, 0, 0.6);
+}
+.footer-list {
+}
+.footer-list-item {
+}
+.footer-list-title {
+    font-family: "Satoshi", sans-serif;
+font-weight: 500;
+font-size: 16px;
+line-height: 113%;
+letter-spacing: 0.19em;
+text-transform: uppercase;
+color: #000;
+}
+.footer-list-link {
+}
+
+.footer-link {
+    font-family: "Satoshi", sans-serif;
+font-weight: 400;
+font-size: 16px;
+line-height: 119%;
+color: rgba(0, 0, 0, 0.6);
+}
+
+.footer-list-link-item {
+}
+.footer-block-style {
+}
+.footer-desc {
+    font-family: "Satoshi", sans-serif;
+font-weight: 400;
+font-size: 14px;
+text-align: right;
+color: rgba(0, 0, 0, 0.6);
 }
